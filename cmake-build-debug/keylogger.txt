@@ -1,0 +1,49 @@
+
+
+[Window: worm – klog_main.cpp - at ] 
+
+[Window: keylogserver – main.js - at ] 
+
+[Window: Search - at ] 
+
+[Window: worm – klog_main.cpp - at ] 
+
+[Window: Search - at ] 
+
+[Window: Untitled - Notepad - at ] 
+
+[Window: *sd - Notepad - at ] 
+
+[Window: *sdh - Notepad - at ] 
+
+[Window: *sdhu - Notepad - at ] 
+
+[Window: *sdhuf - Notepad - at ] 
+
+[Window: *sdhufh - Notepad - at ] 
+
+[Window: *sdhufhd - Notepad - at ] 
+
+[Window: *sdhufhdf - Notepad - at ] 
+
+[Window: *sdhufhdfi - Notepad - at ] 
+
+[Window: *sdhufhdfih - Notepad - at ] 
+
+[Window: worm – klog_main.cpp - at ] 
+
+[Window: keylogserver – main.js - at ] 
+
+[Window: worm – klog_main.cpp - at ] 
+
+[Window:  - at ] 
+
+[Window: worm – klog_main.cpp - at ] 
+
+[Window: Keylogger/windows/klog_main.cpp at master · GiacomoLaw/Keylogger - Opera - at ] 
+
+[Window: worm – klog_main.cpp - at ] 
+
+[Window: Macros - at ] 
+
+[Window: worm – C:\Users\aliih\CLionProjects\worm\cmake-build-debug\keylogger.txt - at ] 

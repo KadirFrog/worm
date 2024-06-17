@@ -1,0 +1,3 @@
+C:/Users/aliih/CLionProjects/worm/cmake-build-debug/CMakeFiles/worm.dir
+C:/Users/aliih/CLionProjects/worm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aliih/CLionProjects/worm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
